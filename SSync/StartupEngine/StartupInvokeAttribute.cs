@@ -4,13 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SSYnc.StartupEngine
+namespace SSync.StartupEngine
 {
     public class StartupInvoke : Attribute
     {
         public StartupInvokeType Type { get; set; }
+
         public bool Hided { get; set; }
+
         public string Name { get; set; }
+
         public StartupInvoke(string name, StartupInvokeType type)
         {
             this.Type = type;

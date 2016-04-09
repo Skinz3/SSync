@@ -63,6 +63,9 @@
     <Compile Include="Sockets\zzObjectPoolMgr.cs" />
     <Compile Include="SSyncCore.cs" />
     <Compile Include="SSyncClient.cs" />
+    <Compile Include="StartupEngine\StartupInvokeAttribute.cs" />
+    <Compile Include="StartupEngine\StartupInvokeType.cs" />
+    <Compile Include="StartupEngine\StartupManager.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

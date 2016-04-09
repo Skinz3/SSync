@@ -1,5 +1,6 @@
 ﻿using SSync.IO;
 using SSync.Messages;
+using SSync.StartupEngine;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -113,7 +114,9 @@ namespace SSync
             }
             Initialized = true;
             if (OnProtocolLoaded != null)
+            {
                 OnProtocolLoaded(Messages.Count, Handlers.Count);
+            }
         }
         /// <summary>
         /// Unpack message

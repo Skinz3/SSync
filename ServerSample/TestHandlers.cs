@@ -1,6 +1,7 @@
 ﻿using ProtocolSample;
 using SSync;
 using SSync.Messages;
+using SSync.StartupEngine;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,11 @@ namespace ServerSample
 {
     class TestHandlers
     {
+        [StartupInvoke("Rize",StartupInvokeType.First)]
+        public static void Rize()
+        {
+
+        }
         [MessageHandler()]
         public static void HandleChatRequestMessage(ChatRequestMessage message,SSyncClient client)
         {
