@@ -1,0 +1,13 @@
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ClientSample\bin\Debug\ClientSample.exe.config
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ClientSample\bin\Debug\ClientSample.exe
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ClientSample\bin\Debug\ClientSample.pdb
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ClientSample\bin\Debug\SSync.dll
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ClientSample\bin\Debug\SSync.pdb
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ClientSample\obj\Debug\ClientSample.csprojResolveAssemblyReference.cache
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ClientSample\obj\Debug\ClientSample.View.resources
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ClientSample\obj\Debug\ClientSample.Properties.Resources.resources
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ClientSample\obj\Debug\ClientSample.csproj.GenerateResource.Cache
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ClientSample\obj\Debug\ClientSample.exe
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ClientSample\obj\Debug\ClientSample.pdb
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ClientSample\bin\Debug\ProtocolSample.dll
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ClientSample\bin\Debug\ProtocolSample.pdb

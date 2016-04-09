@@ -1,0 +1,7 @@
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ProtocolSample\bin\Debug\ProtocolSample.dll
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ProtocolSample\bin\Debug\ProtocolSample.pdb
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ProtocolSample\obj\Debug\ProtocolSample.csprojResolveAssemblyReference.cache
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ProtocolSample\obj\Debug\ProtocolSample.dll
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ProtocolSample\obj\Debug\ProtocolSample.pdb
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ProtocolSample\bin\Debug\SSync.dll
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ProtocolSample\bin\Debug\SSync.pdb

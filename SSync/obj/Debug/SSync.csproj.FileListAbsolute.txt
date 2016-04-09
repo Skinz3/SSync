@@ -1,0 +1,5 @@
+c:\users\skinz\documents\visual studio 2013\Projects\SSync\SSync\obj\Debug\SSync.csprojResolveAssemblyReference.cache
+c:\users\skinz\documents\visual studio 2013\Projects\SSync\SSync\bin\Debug\SSync.dll
+c:\users\skinz\documents\visual studio 2013\Projects\SSync\SSync\bin\Debug\SSync.pdb
+c:\users\skinz\documents\visual studio 2013\Projects\SSync\SSync\obj\Debug\SSync.dll
+c:\users\skinz\documents\visual studio 2013\Projects\SSync\SSync\obj\Debug\SSync.pdb

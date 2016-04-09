@@ -1,0 +1,10 @@
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ServerSample\bin\Debug\ServerSample.exe.config
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ServerSample\bin\Debug\ServerSample.exe
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ServerSample\bin\Debug\ServerSample.pdb
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ServerSample\bin\Debug\SSync.dll
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ServerSample\bin\Debug\SSync.pdb
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ServerSample\obj\Debug\ServerSample.csprojResolveAssemblyReference.cache
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ServerSample\obj\Debug\ServerSample.exe
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ServerSample\obj\Debug\ServerSample.pdb
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ServerSample\bin\Debug\ProtocolSample.dll
+c:\Users\Skinz\documents\visual studio 2013\Projects\SSync\ServerSample\bin\Debug\ProtocolSample.pdb

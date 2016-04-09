@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSync", "SSync\SSync.csproj", "{0B63944E-85CB-4CEE-8276-17C9379ADABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtocolSample", "ProtocolSample\ProtocolSample.csproj", "{DC5DC0FE-4D97-4FC2-8AFD-25713495C619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerSample", "ServerSample\ServerSample.csproj", "{C7519B7F-9476-4DAC-803F-7B8D5508BA17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientSample", "ClientSample\ClientSample.csproj", "{1A61D8C3-4C6D-44EF-A63F-0B29896B6936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B63944E-85CB-4CEE-8276-17C9379ADABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B63944E-85CB-4CEE-8276-17C9379ADABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B63944E-85CB-4CEE-8276-17C9379ADABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B63944E-85CB-4CEE-8276-17C9379ADABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC5DC0FE-4D97-4FC2-8AFD-25713495C619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5DC0FE-4D97-4FC2-8AFD-25713495C619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5DC0FE-4D97-4FC2-8AFD-25713495C619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5DC0FE-4D97-4FC2-8AFD-25713495C619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7519B7F-9476-4DAC-803F-7B8D5508BA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7519B7F-9476-4DAC-803F-7B8D5508BA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7519B7F-9476-4DAC-803F-7B8D5508BA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7519B7F-9476-4DAC-803F-7B8D5508BA17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A61D8C3-4C6D-44EF-A63F-0B29896B6936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A61D8C3-4C6D-44EF-A63F-0B29896B6936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A61D8C3-4C6D-44EF-A63F-0B29896B6936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A61D8C3-4C6D-44EF-A63F-0B29896B6936}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
