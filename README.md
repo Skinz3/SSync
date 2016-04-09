@@ -1,5 +1,6 @@
 # SSync
-Network library written in C#
+Network library written in C#.
+
 Project under license creative commons.
 
 ![alt tag](http://puu.sh/obRr7/8f762897b3.png)
