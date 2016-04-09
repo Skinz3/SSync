@@ -11,4 +11,4 @@ Project under license creative commons.
 
 ![alt tag](http://puu.sh/obRuF/5786a98caf.png)
 
-![alt tag](http://http://puu.sh/obU5Y/cae3d7d16f.png)
+![alt tag](http://puu.sh/obU5Y/cae3d7d16f.png)
