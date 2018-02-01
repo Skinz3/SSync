@@ -1,5 +1,5 @@
 # SSync
-Network library written in C#.
+TCP Network library written in C#.
 
 Project under license creative commons.
 
